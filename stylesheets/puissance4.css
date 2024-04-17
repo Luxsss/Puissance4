@@ -1,0 +1,36 @@
+#board{
+  display: flex;
+  justify-content: center;
+}
+
+table{
+  margin: 80px auto ;
+  width: 700px;
+  height: 600px;
+  background-color: blue;
+}
+
+td{
+  border: 2px solid black;
+  border-radius: 50%;
+  /* background-color: white; */
+}
+
+.bottom-cell {
+  background-color: yellow;
+}
+
+#playersText{
+  width: 200px;
+  height: 20px;
+}
+
+#pastButton{
+  margin: auto;
+  height: 30px;
+}
+
+#nextGame{
+  margin: auto;
+  height: 30px;
+}
