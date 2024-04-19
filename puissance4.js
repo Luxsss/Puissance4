@@ -1,4 +1,4 @@
-export class Puissance4 {
+class Puissance4 {
 
   constructor(colorArr) {
     this.currentPlayer = 0;
